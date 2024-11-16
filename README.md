@@ -8,3 +8,4 @@
 #started uploading files in Assignment section
 #done with posting in assignment section -- nov 13 2024
 #done with uploading files in assignment/predict the output section -- on nov 15 2024
+#started uploading in college lectures sections on 16th Nov 2024 
