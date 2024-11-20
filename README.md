@@ -10,5 +10,5 @@
 #done with uploading files in assignment/predict the output section -- on nov 15 2024
 #started uploading in college lectures sections on 16th Nov 2024 
 #finished uploading in college lectures section on 16th Nov 2024
-#started uploading in E-lab section
+#started uploading in E-lab section on 17th Nov 2024
 #finished uploading in E-lab section on 20th Nov 2024
